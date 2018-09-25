@@ -1,0 +1,19 @@
+{
+  "name": "i-have-node-idea-what-im-doing",
+  "version": "1.0.0",
+  "description": "messing about with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielhochstatter/i-have-node-idea-what-im-doing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielhochstatter/i-have-node-idea-what-im-doing/issues"
+  },
+  "homepage": "https://github.com/gabrielhochstatter/i-have-node-idea-what-im-doing#readme"
+}
