@@ -16,7 +16,7 @@ app.use((req, res, next) => {
 
 app.use((error, req, res, next) => {
     res.status(error.status || 500);
-    console.log(error)
+    console.log('🤯 OH NO SOMETHING BROKE!! ' + error)
     res.sendStatus(error.status)
 })
 
