@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/gabrielhochstatter/i-have-node-idea-what-im-doing#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
   }
 }
